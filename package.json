@@ -42,6 +42,7 @@
     "markdown-it-implicit-figures": "^0.2.0",
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
+    "shelljs": "^0.5.3",
     "style-loader": "^0.13.0",
     "url-loader": "^0.5.7"
   }
