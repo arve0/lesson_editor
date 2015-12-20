@@ -1,5 +1,5 @@
 # lesson editor
-Create codeclub lessons in your web browser without installing
+Create codeclub lessons in your web browser without installing any
 [software](https://github.com/arve0/codeclub_lesson_builder).
 
 # Develop

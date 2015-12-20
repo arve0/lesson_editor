@@ -1,9 +1,7 @@
 'use strict';
 
-import React from 'react'
-import MarkdownIt from 'markdown-it'
-
-let md = MarkdownIt()
+import React from 'react';
+import md from './markdown.js';
 
 class Output extends React.Component {
   toMarkup = () => {
