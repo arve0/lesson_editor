@@ -6,7 +6,7 @@
   "scripts": {
     "build": "webpack -p",
     "prepublish": "npm run build",
-    "start": "webpack-dev-server --devtool eval --progress --colors --hot --content-base dist",
+    "start": "webpack-dev-server --inline --devtool eval --progress --colors --hot --content-base dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

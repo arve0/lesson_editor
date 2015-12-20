@@ -3,14 +3,13 @@ const webpack = require('webpack')
 module.exports = {
   entry: {
     app: [
-      'webpack/hot/dev-server',
       './src/main.js'
     ],
     vendors: ['react', 'markdown-it']
   },
   output: {
     path: 'dist',
-    filename: 'bundle.js'
+    filename: 'app.js'
   },
   module: {
     loaders: [
