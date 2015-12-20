@@ -1,0 +1,13 @@
+PROTOTYPE
+
+
+| Seksjon 1 | Seksjon 2 | Resultat        |
+|-----------------------|-----------------|
+| # Instroduksjon       | Introduksjon    |
+|                       |                 |
+|                       |                 |
+|                       |                 |
+|                       |                 |
+|                       |                 |
+|-----------------------|-----------------|
+                           | Send oppgave |
